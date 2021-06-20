@@ -11,6 +11,12 @@
     <meta name="keywords" content="" />
     <meta name="author" content="" />
     <link rel="stylesheet" href="/ark.css"/>
+   
+   
+   
+
+
+
 
     <!-- Define your gradient here - use online tools to find a gradient matching your branding-->
     <style>
@@ -19,7 +25,9 @@
       }
     </style>
   </head>
+
   <body class="leading-normal tracking-normal text-white gradient" style="font-family: 'Source Sans Pro', sans-serif;">
+
     <!--Nav-->
     <nav id="header" class="fixed w-full z-30 top-0 text-white">
       <div class="w-full container mx-auto flex flex-wrap items-center justify-between mt-0 py-2">
@@ -57,12 +65,18 @@
         </div>
       </div>
       <hr class="border-b border-gray-100 opacity-25 my-0 py-0" />
+
     </nav>
     <!--Hero-->
     <div class="pt-24">
       <div class="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center">
         <!--Left Col-->
         <div class="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left">
+        <video class="video"  width="600" controls poster="video/vacation.webp">
+             <source src="video/vacation.mp4" type="video/mp4">
+  
+              Your browser does not support HTML video.
+        </video>
           <p class="uppercase tracking-loose w-full">What business are you?</p>
           <h1 class="my-4 text-5xl font-bold leading-tight">
             Main Hero Message to sell yourself!
@@ -75,6 +89,7 @@
           </button>
         </div>
         <!--Right Col-->
+        
           <picture class="photo">
             <source srcset="images/hero.avif">
             <img src="images/hero.webp" alt="photo de lunette de soleil sur le sable">
