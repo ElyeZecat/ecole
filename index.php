@@ -387,7 +387,7 @@
               />
               <circle cx="214.07" cy="310.65" r="11.968" fill="#ff6347" />
               <circle cx="322.2" cy="566.52" r="11.968" fill="#ff6347" />
-              <circle cx="780.7" cy="309" r="11.968" fill="#ff6347" />
+              <circle cx="780.7" cy="309" r="11.968" fill="#ff6347" /> 
               <circle cx="991.17" cy="607.78" r="11.968" fill="#ff6347" />
               <circle cx="600.35" cy="480.68" r="11.968" fill="#ff6347" />
             </svg>
